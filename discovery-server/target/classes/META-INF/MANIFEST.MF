@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: discovery-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ANITA1
+Implementation-Vendor-Id: io.mylearning.cloud
+Build-Jdk: 1.8.0_45
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/discovery-server
+Created-By: Maven Integration for Eclipse
+
